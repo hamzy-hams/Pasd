@@ -20,17 +20,17 @@
 ## 2.  Latihan Praktikal
 
 Kebetulan saya menggunakan linux, jadi langsung ke intinya saja
-### A.
-### B.
-### C.
-### D.
-### E.
-### F.
-### G.
-### H.
-### I.
-### J.
-### K.
+### A. ![Diagram](images/Shot-2026-02-21-123703.png)
+### B. ![Diagram](images/Shot-2026-02-21-123719.png)
+### C. ![Diagram](images/Shot-2026-02-21-123913.png)
+### D. ![Diagram](images/Shot-2026-02-21-123951.png)
+### E. ![Diagram](images/Shot-2026-02-21-124013.png)
+### F. ![Diagram](images/Shot-2026-02-21-124028.png)
+### G. ![Diagram](images/Shot-2026-02-21-124045.png)
+### H. ![Diagram](images/Shot-2026-02-21-124105.png)
+### I. ![Diagram](images/Shot-2026-02-21-124128.png)
+### J. ![Diagram](images/Shot-2026-02-21-124146.png)
+### K. ![Diagram](images/Shot-2026-02-21-124200.png)
 
 ## 3.  Latihan Refleksi
 
